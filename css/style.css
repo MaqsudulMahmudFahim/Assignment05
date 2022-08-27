@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+    color: beige;
+}
+
+.box{
+    width:10%;
+    height: 100px;
+}
+
+.yellow{
+    background-color: yellow;
+    margin: 5px;
+}
+
+.blue{
+   background-color: blue;
+   margin:156px;
+   margin-top: -105px;
+}
+
+.brown{
+    background-color: brown;
+    margin: 100px;
+    padding: 100px;
+    border: 10px solid hotpink;
+}
+
+h1,h2{
+    display: inline;
+}
+
+a{
+    display: block;
+}
+
+.ved{
+    width:49%;
+     height:375px;
+}
+
+#map{
+    margin-left: 700px;
+    color: aquamarine;
+    
+    font-family: fantasy;
+}
+
+.ve{
+   
+    width:40%;
+    margin-left:450px;
+    height: 300px;
+   
+}
+
+table,th,td{
+    border: 1px solid yellowgreen;
+    
+}
+
+form{
+
+    width: 30%;
+    border: 3px solid yellowgreen;
+    margin-left:450px;
+}
+
+form:hover{
+    color: chartreuse;
+}
+
+.field{
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    width: 95%;
+}
+
